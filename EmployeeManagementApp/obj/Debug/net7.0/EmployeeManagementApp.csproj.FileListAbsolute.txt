@@ -1,0 +1,14 @@
+/workspaces/EmployeeManagementApp/bin/Debug/net7.0/EmployeeManagementApp
+/workspaces/EmployeeManagementApp/bin/Debug/net7.0/EmployeeManagementApp.deps.json
+/workspaces/EmployeeManagementApp/bin/Debug/net7.0/EmployeeManagementApp.runtimeconfig.json
+/workspaces/EmployeeManagementApp/bin/Debug/net7.0/EmployeeManagementApp.dll
+/workspaces/EmployeeManagementApp/bin/Debug/net7.0/EmployeeManagementApp.pdb
+/workspaces/EmployeeManagementApp/obj/Debug/net7.0/EmployeeManagementApp.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/EmployeeManagementApp/obj/Debug/net7.0/EmployeeManagementApp.AssemblyInfoInputs.cache
+/workspaces/EmployeeManagementApp/obj/Debug/net7.0/EmployeeManagementApp.AssemblyInfo.cs
+/workspaces/EmployeeManagementApp/obj/Debug/net7.0/EmployeeManagementApp.csproj.CoreCompileInputs.cache
+/workspaces/EmployeeManagementApp/obj/Debug/net7.0/EmployeeManagementApp.dll
+/workspaces/EmployeeManagementApp/obj/Debug/net7.0/refint/EmployeeManagementApp.dll
+/workspaces/EmployeeManagementApp/obj/Debug/net7.0/EmployeeManagementApp.pdb
+/workspaces/EmployeeManagementApp/obj/Debug/net7.0/EmployeeManagementApp.genruntimeconfig.cache
+/workspaces/EmployeeManagementApp/obj/Debug/net7.0/ref/EmployeeManagementApp.dll
